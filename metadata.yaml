@@ -1,0 +1,32 @@
+_repo: Flowering-plants-of-South-Africa-vol-4_69947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pole Evans, I. B. (Illtyd Buller)
+    aliases:
+    - Evans, Illtyd Buller Pole
+    - Evans, I. B. Pole (Illtyd Buller Pole)
+    - Pole-Evans, I. B. (Illtyd Buller)
+    birthdate: 1879
+    deathdate: 1968
+    gutenberg_agent_id: '52173'
+    url: http://www.gutenberg.org/2009/agents/52173
+    wikipedia: https://en.wikipedia.org/wiki/Illtyd_Buller_Pole-Evans
+description: ''
+gutenberg_issued: '2023-02-04'
+identifiers:
+  gutenberg: '69947'
+language: en
+pgterms:marc905: 20210121051154poleevans
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bL. Reeve & Co, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Flowering plants of South Africa vol. 4
+url: http://www.gutenberg.org/ebooks/69947
